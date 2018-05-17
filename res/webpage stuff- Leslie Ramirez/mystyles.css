@@ -1,0 +1,49 @@
+body{background-color :#8F5778  }
+
+.buttDiv{
+	background-color:#1D8780  ;
+	height:60px;
+	width:70px;
+	border:solid black 2px;
+	float:left;
+	margin-left:60px;
+	margin-top:20px;
+	border-radius: 10px;
+	text-align:center;
+	padding-top:10px;
+}
+
+#navDiv{
+	background-color: pink;
+	height: 100px;
+	border: solid black 2px;
+	}
+
+#pandaIcon{
+	height:80px;
+	width:80px;
+}
+
+#wrapperDiv{
+	background-color:#3CA7A0 ;
+	height:800px;
+	width:800px;
+	margin:auto;
+	margin-top:30px;
+	border:solid black 12px;
+}
+
+#headerDiv{
+	background-color:#3CA7A0;
+	height: 100px;
+}
+
+#bodyDiv{
+	Background-color:Pink;
+}
+#footerDiv{
+	text-align:center;
+	float:center;
+}
+
+
